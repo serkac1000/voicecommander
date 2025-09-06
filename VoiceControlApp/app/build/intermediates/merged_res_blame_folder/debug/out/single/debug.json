@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\serka\\.gradle\\daemon\\8.5\\com.yourpackage.voicecontrol.app-merged_res-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\serka\\.gradle\\daemon\\8.5\\com.yourpackage.voicecontrol.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\serka\\.gradle\\daemon\\8.5\\com.yourpackage.voicecontrol.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\serka\\.gradle\\daemon\\8.5\\com.yourpackage.voicecontrol.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.yourpackage.voicecontrol.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.yourpackage.voicecontrol.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\serka\\.gradle\\daemon\\8.5\\com.yourpackage.voicecontrol.app-merged_res-31:\\layout_activity_command_config.xml.flat",
+        "source": "C:\\Users\\serka\\.gradle\\daemon\\8.5\\com.yourpackage.voicecontrol.app-main-33:\\layout\\activity_command_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\serka\\.gradle\\daemon\\8.5\\com.yourpackage.voicecontrol.app-merged_res-31:\\drawable_dot_inactive.xml.flat",
+        "source": "C:\\Users\\serka\\.gradle\\daemon\\8.5\\com.yourpackage.voicecontrol.app-main-33:\\drawable\\dot_inactive.xml"
+    },
+    {
+        "merged": "C:\\Users\\serka\\.gradle\\daemon\\8.5\\com.yourpackage.voicecontrol.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\serka\\.gradle\\daemon\\8.5\\com.yourpackage.voicecontrol.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\serka\\.gradle\\daemon\\8.5\\com.yourpackage.voicecontrol.app-merged_res-31:\\drawable_dot_active.xml.flat",
+        "source": "C:\\Users\\serka\\.gradle\\daemon\\8.5\\com.yourpackage.voicecontrol.app-main-33:\\drawable\\dot_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\serka\\.gradle\\daemon\\8.5\\com.yourpackage.voicecontrol.app-merged_res-31:\\layout_list_item_command.xml.flat",
+        "source": "C:\\Users\\serka\\.gradle\\daemon\\8.5\\com.yourpackage.voicecontrol.app-main-33:\\layout\\list_item_command.xml"
+    },
+    {
+        "merged": "C:\\Users\\serka\\.gradle\\daemon\\8.5\\com.yourpackage.voicecontrol.app-merged_res-31:\\drawable_mic_button_background.xml.flat",
+        "source": "C:\\Users\\serka\\.gradle\\daemon\\8.5\\com.yourpackage.voicecontrol.app-main-33:\\drawable\\mic_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\serka\\.gradle\\daemon\\8.5\\com.yourpackage.voicecontrol.app-merged_res-31:\\drawable_gradient_background.xml.flat",
+        "source": "C:\\Users\\serka\\.gradle\\daemon\\8.5\\com.yourpackage.voicecontrol.app-main-33:\\drawable\\gradient_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\serka\\.gradle\\daemon\\8.5\\com.yourpackage.voicecontrol.app-merged_res-31:\\layout_activity_vocal_commands.xml.flat",
+        "source": "C:\\Users\\serka\\.gradle\\daemon\\8.5\\com.yourpackage.voicecontrol.app-main-33:\\layout\\activity_vocal_commands.xml"
+    }
+]
