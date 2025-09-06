@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+drawable dot_active
+drawable dot_inactive
+drawable gradient_background
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable mic_button_background
+id command_display
+id command_label
+id command_subtitle
+id command_title
+id commands_list
+id configure_command_btn
+id configure_data_btn
+id connect_button
+id data_label
+id device_spinner
+id mic_button
+id scan_button
+id settings_button
+id status_text
+layout activity_command_config
+layout activity_main
+layout activity_vocal_commands
+layout list_item_command
+string app_name
+style AppTheme
